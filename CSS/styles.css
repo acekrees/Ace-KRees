@@ -1,0 +1,32 @@
+/*Element selector*/
+div{
+color: rgb(8, 174, 240);
+font-weight: 600;
+padding: 40px;
+margin: 20px;
+}
+body{
+    background-color: rgb(247, 244, 244)
+}
+
+
+/*Universal selector*/
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/*Class selector*/
+.username{
+    font-weight: 600;
+    color: blue;
+    padding: 40px;
+    margin: 20px;
+}
+.Tag{
+    color: blue;
+    font-weight: 600;
+    font-style: italic;
+    padding: 40px;
+    margin: 20px;
+}
